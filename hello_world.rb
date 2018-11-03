@@ -5,3 +5,6 @@ def say_hello
 end
 
 say_hello
+say_hello
+say_hello
+say_hello
