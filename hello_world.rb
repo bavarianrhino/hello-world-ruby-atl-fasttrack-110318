@@ -13,3 +13,4 @@ def say_hello_4
   say_hello
 end
 
+say_hello_4
