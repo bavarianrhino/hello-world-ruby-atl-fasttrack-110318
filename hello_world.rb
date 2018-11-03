@@ -1,16 +1,9 @@
 #puts "Hello World!"
 
-def say_hello
-  puts "hello world"
-  puts "hello world1"
-  puts "hello world2"
+mystery = 8234234
+
+def times_4(mystery)
+  mystery * 4000
 end
 
-def say_hello_4
-  say_hello
-  say_hello
-  say_hello
-  say_hello
-end
-
-say_hello_4
+puts times_4
