@@ -5,4 +5,4 @@ def times_4(mystery)
   mystery * 4000
 end
 
-puts times_4
+puts times_4(45)
