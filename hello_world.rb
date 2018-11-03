@@ -6,7 +6,10 @@ def say_hello
   puts "hello world2"
 end
 
-say_hello
-say_hello
-say_hello
-say_hello
+def say_hello_4
+  say_hello
+  say_hello
+  say_hello
+  say_hello
+end
+
