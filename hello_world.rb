@@ -2,8 +2,10 @@
 
 
 def times_4(mystery)
-  mystery * 4000
+  mystery * 4000 = number1
+  puts number1
 end
 
-puts times_4(times_4(45))
+times_4
+
 
